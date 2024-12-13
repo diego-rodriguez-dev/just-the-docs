@@ -1,4 +1,4 @@
-title: Just the Docs Template
+title: My Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: dark
@@ -7,3 +7,4 @@ url: https://diego-rodriguez-dev.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  My Repo: https://github.com/diego-rodriguez-dev/just-the-docs/
